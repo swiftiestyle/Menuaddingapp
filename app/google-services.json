@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564130646041",
+    "firebase_url": "https://menuaddingapp.firebaseio.com",
+    "project_id": "menuaddingapp",
+    "storage_bucket": "menuaddingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564130646041:android:5ee1866504061f3b",
+        "android_client_info": {
+          "package_name": "com.example.buddies.menuaddingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564130646041-r01us74sc7jcjlv3ngkg99advjfmdqso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buddies.menuaddingapp",
+            "certificate_hash": "81151ae4ea43730e305aaa40f4df063e52936143"
+          }
+        },
+        {
+          "client_id": "564130646041-80eenbeqp4ds2rm22p2v24pg40n5n9c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwOeXlHSjS8S6wih6sJgV69TF1QYo6oT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564130646041-80eenbeqp4ds2rm22p2v24pg40n5n9c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
